@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Labb3": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Colin\\Pictures\\TEST_MEDIUM_PNG.png\""
+    }
+  }
+}
